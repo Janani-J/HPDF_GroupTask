@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: basket40-hasura
+  data: null
+  kubeContext: basket40
+  name: basket40

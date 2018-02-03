@@ -1,0 +1,42 @@
+.help{
+    font-family:Helvetica;
+    color:#0066c0;
+    padding-left:25px;
+    padding-top:5px;
+    font-size: 13px;
+}
+
+
+.help:hover{
+    font-family:Helvetica;
+    color:#f0c14b;
+    padding-left:25px;
+    padding-top:5px;
+    font-size: 13px;
+    text-decoration: underline;
+    cursor: pointer;
+
+}
+ 
+.divider {
+    max-width: 50%;  
+    margin: 40px auto;
+  }
+
+.left{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float:left;
+}
+
+.list{
+    color:White;
+    margin-left:10px;
+    margin-right:5px;
+    display: inline;
+}
+.list1{
+    color:White;
+    display: inline;
+}

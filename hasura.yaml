@@ -1,0 +1,5 @@
+description: "A basic Hasura quickstart project with a react and python-flask app running on it."
+keywords: getting-started,react, python-flask, flask, python, javascript, reactjs
+media: {}
+name: hello-flask-react
+platformVersion: v0.15.3
